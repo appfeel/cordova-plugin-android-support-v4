@@ -10,6 +10,6 @@ found in the LICENSE file.
   </engines>
   <name>Android Support v4</name>
   <platform name="android">
-    <lib-file src="android-support-v14.jar" />
+    <lib-file src="android-support-v4.jar" />
   </platform>
 </plugin>
